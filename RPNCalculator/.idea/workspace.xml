@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1de8c45d-b983-46c0-9223-acd1d08e4276" name="Default Changelist" comment="Added classes to the program">
-      <change afterPath="$PROJECT_DIR$/src/com/brownj/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/brownj/ExpressionEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brownj/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brownj/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/brownj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brownj/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,9 +26,13 @@
   <component name="ProjectId" id="1TEGyyrk5ieFoCKuEl1SIWodgUx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,6 +75,7 @@
       <updated>1573018099725</updated>
       <workItem from="1573018105809" duration="601000" />
       <workItem from="1573024720276" duration="1138000" />
+      <workItem from="1573136038766" duration="2909000" />
     </task>
     <servers />
   </component>
@@ -82,7 +87,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
