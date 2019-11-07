@@ -1,13 +1,15 @@
 package com.brownj;
 
+import java.util.Stack;
+
 class Controller {
     private ExpressionEvaluator myEvaluator;
-
+    private Stack myStack = new Stack();
 
 
     Controller(){
         System.out.println("Controller created");
-        myEvaluator = new ExpressionEvaluator();
+
     }
 
     void printIntroMessage(){}
@@ -26,6 +28,10 @@ class Controller {
     }
 
     private void runEvaluateExpression(String expression){
+        myEvaluator = new ExpressionEvaluator(expression);
         System.out.println(expression);
+        int num1 = Character.getNumericValue(expression.charAt(0));
+
+        System.out.println(num1);
     }
 }

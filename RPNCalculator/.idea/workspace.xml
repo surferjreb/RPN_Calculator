@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1de8c45d-b983-46c0-9223-acd1d08e4276" name="Default Changelist" comment="Added classes to the program">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1de8c45d-b983-46c0-9223-acd1d08e4276" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/brownj/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brownj/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brownj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brownj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brownj/ExpressionEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brownj/ExpressionEvaluator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,8 +74,16 @@
       <updated>1573018099725</updated>
       <workItem from="1573018105809" duration="601000" />
       <workItem from="1573024720276" duration="1138000" />
-      <workItem from="1573136038766" duration="2909000" />
+      <workItem from="1573136038766" duration="5372000" />
     </task>
+    <task id="LOCAL-00001" summary="Did some editing to bring in equation to be read.">
+      <created>1573139485273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573139485273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added classes to the program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added classes to the program" />
+    <MESSAGE value="Did some editing to bring in equation to be read." />
+    <option name="LAST_COMMIT_MESSAGE" value="Did some editing to bring in equation to be read." />
   </component>
 </project>
